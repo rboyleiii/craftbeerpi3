@@ -36,8 +36,11 @@ show_menu () {
            fi
 
            apt-get -y install python-setuptools
-           easy_install pip
-           apt-get -y install python-dev
+	   
+	   #easy_install pip - removed not working, replaced with line belwo
+           apt-get install python-pip 
+	   
+	   apt-get -y install python-dev
            apt-get -y install libpcre3-dev
            pip install -r requirements.txt
 
