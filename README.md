@@ -1,3 +1,8 @@
+My changes and updates to the original project:
+
+
+Original content and credit for the project:
+
 # CraftBeerPi V3.0
 
 This is CraftBeerPi version 3.0. It's currently in beta status.
