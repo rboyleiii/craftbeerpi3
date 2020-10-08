@@ -1,5 +1,6 @@
 My changes and updates to the original project:
-Fixed installation script - adding fixes from https://techdout.dev/2019/09/24/installing-craftbeerpi/
+
+  Fixed installation script - adding fixes from https://techdout.dev/2019/09/24/installing-craftbeerpi/
 
 Original content and credit for the project:
 
